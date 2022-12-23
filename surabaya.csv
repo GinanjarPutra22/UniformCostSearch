@@ -1,0 +1,26 @@
+city1,city2,distance
+Pakal,Sembikarep,8
+Pakal,Benowo,5
+Benowo,Sembikarep,4
+Benowo,Krembangan,17
+Sembikarep,Lakar Santri,5
+Sembikarep,Wiyung,8
+Sembikarep,Krembangan,17
+Lakar Santri,Wiyung,3
+Lakar Santri,Jambangan,9
+Wiyung,Jambangan,6
+Wiyung,Wonokromo,3
+Wiyung,Jambangan,6
+Jambangan,Wonokromo,5
+Wonokromo,Gununganyar,7
+Wonokromo,Rungkut,8
+Wonokromo,Gubeng,4
+Gununganyar,Rungkut,4 
+Rungkut,Gubeng,8
+Rungkut,Sukolilo,4
+Sukolilo,Mulyorejo,3
+Mulyorejo,Kenjeran,8
+Mulyorejo,Gubeng,5
+Gubeng,Kenjeran,9
+Gubeng,Krembangan,8
+Krembangan,Kenjeran,4
